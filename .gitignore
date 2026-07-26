@@ -1,0 +1,14 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE/editor settings
+.vscode/
+*.swp
+
+# Node modules (if you add npm later)
+node_modules/
